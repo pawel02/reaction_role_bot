@@ -1,0 +1,2 @@
+# Reaction role bot
+This is a simple reaction role bot where it will give a user specified permissions after reacting to a message. Commonly seen in channels as way of verifying that the user is not a bot and welcoming the user to the channel. 
